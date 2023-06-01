@@ -1,0 +1,8 @@
+---
+app_istio:
+  app_config:
+    tag:
+    sha:
+  app_customization:
+    tag:
+    sha:
