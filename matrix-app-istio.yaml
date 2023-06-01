@@ -1,8 +1,8 @@
 ---
-app_istio:
+app:
   app_config:
     tag:
-    sha:
+    sha: 1548b47
   app_customization:
     tag:
-    sha:
+    sha: d4e178e
